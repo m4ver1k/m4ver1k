@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/adarshkkumar?style=social)
 
-## [Checkout my blog - JigsawCode](www.jigsawcode.com)
+## [Checkout my blog - JigsawCode](https://www.jigsawcode.com)
 <!--
 **m4ver1k/m4ver1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
